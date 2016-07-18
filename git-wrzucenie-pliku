@@ -1,0 +1,17 @@
+1. Przechodzimy do katalogu w ktorym trzymamy skrypty
+2. git init
+3. git add <nazwa_skryptu.py>
+4. git status
+5. git commit -m "np. projekt"
+6. git status
+7. git remote add origin https:/github.com/hszymanski/projekt.git
+8. git push -u origin master
+
+
+
+
+[simon@dopebang Git]$ cd .git
+[simon@dopebang .git]$ git init
+Initialized empty Git repository in /home/simon/Git/.git/.git/
+[simon@dopebang .git]$ git add /home/simon/Git/.git/waluty.py
+
